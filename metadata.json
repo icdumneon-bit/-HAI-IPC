@@ -1,0 +1,6 @@
+{
+  "name": "IC-Surveillance Pro: Hospital Infection Control System",
+  "description": "ระบบเฝ้าระวังการติดเชื้อในโรงพยาบาล (HAI) ติดตาม UTI, VAP, Phlebitis, SSI, CLABSI พร้อมแดชบอร์ดและการแจ้งเตือนแบบเรียลไทม์ และระบบซิงค์ Google Sheets",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
